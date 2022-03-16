@@ -83,5 +83,3 @@ else:
             print(f"Epoch: {i+1} conflict:", population[0][n])
 
 
-# for i in population:
-#     print(i)
